@@ -1,6 +1,6 @@
 # LLM Chat API
 
-A simple AI chat application built with Next.js and Fastify, using the Groq API to communicate with an LLM.
+A simple AI chat application built with Fastify, using the Groq API to communicate with an LLM.
 
 ## Requirements
 
